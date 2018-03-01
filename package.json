@@ -1,0 +1,25 @@
+{
+  "name": "clovis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "^0.0.0",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyk100/clovis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobyk100/clovis/issues"
+  },
+  "homepage": "https://github.com/tobyk100/clovis#readme"
+}
